@@ -1,5 +1,4 @@
-Welcome to the *🌌 The Designer, the Engineer and the Architect: Finding the perfect blend of text and data 🌟* 
- - a project prepared for a KAPSARC interview.
+Welcome to the **🌌 The Designer, the Engineer and the Architect: Finding the perfect blend of text and data 🌟** - a project prepared for a KAPSARC interview.
 
 # 🌌 The Designer, the Engineer and the Architect  
 Finding the perfect blend of text and data 🌟 
